@@ -100,7 +100,7 @@ img {
   justify-content: center;
   align-items: center;
   color: #fff;
-  background: url(/img/mv.png) center / cover;
+  background: url(../img/mv.png) center / cover;
 }
 
 /* header */
